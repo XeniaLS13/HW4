@@ -38,4 +38,4 @@ void SelectionSort(int[] array)
     }
 }
 
-[Код]()
+[Код](https://github.com/XeniaLS13/HW4/blob/main/Task3/Program.cs)
